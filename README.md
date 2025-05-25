@@ -1,6 +1,7 @@
 # SpawningEnemyAlongSpline
 
-###### Spawning Enemy along spline. Developed with Unreal Engine 5, C++
+###### Spawning Enemy along spline. Example from the Tower Defense game, which is in development.
+###### Developed with Unreal Engine 5, C++.
 
 
 ### Video
